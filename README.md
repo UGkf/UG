@@ -8,47 +8,47 @@
 [English](README.md) | [简体中文](README_zh-CN.md)
 <br>
 <br>
-🚀<a href="http://ughelper.huiqi-service.cn/#/login">模具开发平台 官网入口→✅ 在线使用 ✅ 全功能客户端 ✅ UG二次开发交流社区讨论，速冲！</a>
+🚀<a href="http://ughelper.huiqi-service.cn/#/login">Mold Development Platform → ✅ Online Demo ✅ Full Client ✅ UG Dev Community, Try Now! </a>
 </div>
 
-# 📋 更新记录
+# 📋 Update Log
 
-  2025/07/11 1.1.0发布
+  2025/07/11 1.1.0Released
   
-- 这是 模具开发平台 的第一个版本上线，平台包括根据用户需求生成UG二次开发c++编程的整个代码流程、平台使用结束、用户交流区，具体平台内容如下（只支持C++编程）： 
-- 编码功能： 
-  - 用户需求生成编码思路流程：用户输入用户需求，生成出解决用户需求的编码思路。
-  - 编码思路生成所需函数流程：用户检索函数时，生成出解决编码思路的所需函数。
-  - 编码思路函数信息生成代码流程：点击生成代码后，生成出解决用户需求的代码。
-- 编译功能：
-  - 针对用户需求生成的代码，平台支持对代码进行编码，并且返回可执行的dll文件。
-  - 编译报错时，平台会返回报错信息。
-- UG二次开发社区：
-  - 用户可以在交流区进行问题反馈，以及需要优化的功能。
-- 平台使用教程：
-  - 用户能够在使用教程处查看功能演示。
+- This is the first version launch of the Mold Development Platform. The platform includes the complete code process for generating UG secondary development C++ programming based on user requirements, platform usage completion, and user communication area. The specific platform content is as follows (C++ programming only):
+- Coding Features:
+  - User Requirements to Coding Ideas Process: Users input their requirements, and the system generates coding ideas to solve user needs.
+  - Coding Ideas to Required Functions Process: When users search for functions, the system generates the required functions to solve the coding ideas.
+  - Coding Ideas Function Information to Code Generation Process: After clicking generate code, the system produces code that solves user requirements.
+- Compilation Features:
+  - For code generated from user requirements, the platform supports code compilation and returns executable DLL files.
+  - When compilation errors occur, the platform returns error information.
+- UG Secondary Development Community:
+  - Users can provide feedback on issues and suggest features that need optimization in the communication area.
+- Platform Usage Tutorial:
+  - Users can view feature demonstrations in the usage tutorial section.
 
 <details>
-  <summary>📚 历史日志</summary>
+  <summary>📚 History Log</summary>
   
   <details>
-    <summary>2025/07/11 1.1.0发布</summary>
+    <summary>2025/07/11 1.1.0 Released</summary>
     <ul>
-      <li>UG模具开发平台正式上线。</li>
+      <li>UG Mold Development Platform officially goes live. </li>
     </ul>
   </details>
 </details>
 
 <!-- TABLE OF CONTENT -->
 <details open="open">
-  <summary><h2 style="display: inline-block">📋 文档目录</h2></summary>
+  <summary><h2 style="display: inline-block">📋 Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#模具设计开发平台">模具设计开发平台</a>
+      <a href="#mold-design-development-platform">Mold Design Development Platform</a>
       <ul>
-        <li><a href="#项目简介">项目简介</a></li>
-        <li><a href="#主要功能">主要功能</a></li>
-        <li><a href="#快速开始">快速开始</a>
+        <li><a href="#project-introduction">Project Introduction</a></li>
+        <li><a href="#main-features">Main Features</a></li>
+        <li><a href="#quick-start">Quick Start</a>
         </li>
       </ul>
     </li>
@@ -57,37 +57,36 @@
   </ol>
 </details>
 
-# 模具设计开发平台
-## 项目简介
-模具开发设计平台是一款集UG二开代码插件设计（生成UG代码以及进行代码编译）、UG二开社区一体的模具功能平台。
+# Mold Design Development Platform
+## Project Introduction
+The Mold Development and Design Platform is an integrated platform that combines UG secondary development code plugin design (generating UG code and performing code compilation) with a UG secondary development community for mold functionality.
 <br>
-UG模具开发平台的诞生主要是为了使机械工程师、工艺师等非专业程序员也能通过自然语言完成简单的自动化任务以及让资深开发工程师从繁琐的API查询和基础代码编写中解放出来，专注于核心算法和复杂逻辑的实现，提升其工作效率；平台将UG二开与大模型应用相结合，旨在精简UG二开的工程任务。
+The UG Mold Development Platform was created primarily to enable mechanical engineers, process engineers, and other non-professional programmers to complete simple automation tasks through natural language, while also freeing experienced development engineers from tedious API queries and basic code writing, allowing them to focus on core algorithms and complex logic implementation to improve their work efficiency. The platform combines UG secondary development with large model applications, aiming to streamline UG secondary development engineering tasks.
 
-## 主要功能
-- 支持用户输入用户需求，平台将会根据用户需求生成能够完成用户需求的UG二次开发C++的编码思路（用户可以进行修改）。
-- 支持够根据生成的编码思路生成每一个步骤所需的UF函数（用户可以进行修改）。
-- 支持函数信息查询，用户输入函数名，平台能够检索出函数对应的传参、函数描述、对应头文件。
-- 支持UG二开C++代码的生成，平台能够根据用户确认过后的编码思路以及函数信息来生成能够完成用户需求的代码。
-- 支持UG二开C++代码的编译，用户能够选择自己所需编译出来的NX版本来进行编译得到dll文件。
-- 支持用户查看历史记录，可以直接跳转到对应历史记录进行编码设计。
-- 支持用户产看过往dll文件，用户能够直接下载过往的dll文件。
+## Main Features
+- Supports user input of requirements, the platform will generate UG secondary development C++ coding ideas that can fulfill user needs based on the requirements (users can modify them).
+- Supports generating required UF functions for each step based on the generated coding ideas (users can modify them).
+- Supports function information query, users input function names and the platform can retrieve corresponding parameters, function descriptions, and related header files.
+- Supports UG secondary development C++ code generation, the platform can generate code that fulfills user requirements based on user-confirmed coding ideas and function information.
+- Supports UG secondary development C++ code compilation, users can select their desired NX version for compilation to obtain DLL files.
+- Supports users viewing history records, allowing direct navigation to corresponding historical records for coding design.
+- Supports users viewing past DLL files, users can directly download previous DLL files.
 
-
-## 快速开始
-[![UG二开平台](https://img.shields.io/badge/UG二开平台-立即使用-2196F3?style=flat&logo=desktop&logoColor=white)](http://ughelper.huiqi-service.cn/#/login)
+## Quick Start
+[![UG-Demo](https://img.shields.io/badge/UG Demo-Quick Start-2196F3?style=flat&logo=desktop&logoColor=white)](http://ughelper.huiqi-service.cn/#/login)
 
 # TODO
-- [x] 用户需求生成代码
-- [x] 代码编译功能返回可执行dll文件
-- [x] 历史记录、dll文件库
-- [x] 过多NX版本选择
-- [ ] 视频需求输入
-- [ ] 基于 NX OPEN 实现UG二开
-- [ ] 意图识别
-- [ ] 插件（复制）需求解析
+- [x] Requirement-to-code generation
+- [x] Code compilation with DLL output
+- [x] History & DLL library
+- [x] Multi-NX version support
+- [ ] Video input support
+- [ ] NX OPEN-based UG development
+- [ ] Intent recognition
+- [ ] Plugin requirement parsing
 
 # Known Issues
 
-- 平台初步阶段，知识库并不丰富生成的编码思路可能不完善，用户可以根据需求自行更改编码思路或所需函数。
-- 平台对过于复杂的插件设计效果较差，生成的代码可能无法完成某功能步骤的效果。
-- 现版本只支持NX10、NX12、NX2306、NX2406版本的代码编译功能，编译的dll文件可能会无法在其他NX版本中使用。
+- **Early Stage Limitations**: Knowledge base is limited, generated coding solutions may be incomplete. Users can modify ideas and functions as needed.
+- **Complex Plugin Limitations**: Poor performance on complex plugin designs, generated code may fail to complete certain functional steps.
+- **Version Compatibility**: Currently supports only NX10, NX12, NX2306, and NX2406 compilation. DLL files may not work with other NX versions.
