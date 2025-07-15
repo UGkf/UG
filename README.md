@@ -73,7 +73,7 @@ The UG Mold Development Platform was created primarily to enable mechanical engi
 - Supports users viewing past DLL files, users can directly download previous DLL files.
 
 ## Quick Start
-[![UG-Demo](https://img.shields.io/badge/UG Demo-Quick Start-2196F3?style=flat&logo=desktop&logoColor=white)](http://ughelper.huiqi-service.cn/#/login)
+[![UG_Demo](https://img.shields.io/badge/UG_Demo-Quick_Start-2196F3?style=flat&logo=desktop&logoColor=white)](http://ughelper.huiqi-service.cn/#/login)
 
 # TODO
 - [x] Requirement-to-code generation
