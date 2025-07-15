@@ -53,7 +53,7 @@
       </ul>
     </li>
     <li><a href="#todo">TODO</a></li>
-    <li><a href="#Known Issues">Known Issues</a></li>
+    <li><a href="#known issues">Known Issues</a></li>
   </ol>
 </details>
 
@@ -86,7 +86,6 @@ The UG Mold Development Platform was created primarily to enable mechanical engi
 - [ ] Plugin requirement parsing
 
 # Known Issues
-
 - **Early Stage Limitations**: Knowledge base is limited, generated coding solutions may be incomplete. Users can modify ideas and functions as needed.
 - **Complex Plugin Limitations**: Poor performance on complex plugin designs, generated code may fail to complete certain functional steps.
 - **Version Compatibility**: Currently supports only NX10, NX12, NX2306, and NX2406 compilation. DLL files may not work with other NX versions.
