@@ -1,74 +1,70 @@
 <div align="center">
 <!-- logo -->
 <p align="center">
-  <img src="docs/image/UG-logo.png" width="300px" style="vertical-align:middle;">
+  <img src="docs/image/UG-logo.png" width="100px" style="vertical-align:middle;">
 </p>
 
 <!-- language -->
-
 [English](README.md) | [简体中文](README_zh-CN.md)
 <br>
 <br>
 🚀<a href="http://ughelper.huiqi-service.cn/#/login">模具开发平台 官网入口→✅ 在线使用 ✅ 全功能客户端 ✅ UG二次开发交流社区讨论，速冲！</a>
-</p>
 </div>
 
-
 # 📋 更新记录
-- 2025/07/11 1.1.0发布
-  - 这是 模具开发平台 的第一个版本上线，平台包括根据用户需求生成UG二次开发c++编程的整个代码流程、平台使用结束、用户交流区，具体平台内容如下： 
-  - 编码功能： 
-    - 用户需求生成编码思路流程：用户输入用户需求，生成出解决用户需求的编码思路。
-    - 编码思路生成所需函数流程：用户检索函数时，生成出解决编码思路的所需函数。
-    - 编码思路函数信息生成代码流程：点击生成代码后，生成出解决用户需求的代码。
-  - 编译功能：
-    - 针对用户需求生成的代码，平台支持对代码进行编码，并且返回可执行的dll文件。
-    - 编译报错时，平台会返回报错信息。
-  - UG二次开发社区：
-    - 用户可以在交流区进行问题反馈，以及需要优化的功能。
-  - 平台使用教程：
-    - 用户能够在使用教程处查看功能演示。
+
+  2025/07/11 1.1.0发布
+  
+- 这是 模具开发平台 的第一个版本上线，平台包括根据用户需求生成UG二次开发c++编程的整个代码流程、平台使用结束、用户交流区，具体平台内容如下： 
+- 编码功能： 
+  - 用户需求生成编码思路流程：用户输入用户需求，生成出解决用户需求的编码思路。
+  - 编码思路生成所需函数流程：用户检索函数时，生成出解决编码思路的所需函数。
+  - 编码思路函数信息生成代码流程：点击生成代码后，生成出解决用户需求的代码。
+- 编译功能：
+  - 针对用户需求生成的代码，平台支持对代码进行编码，并且返回可执行的dll文件。
+  - 编译报错时，平台会返回报错信息。
+- UG二次开发社区：
+  - 用户可以在交流区进行问题反馈，以及需要优化的功能。
+- 平台使用教程：
+  - 用户能够在使用教程处查看功能演示。
 
 <details>
-  <summary>历史日志</summary>
+  <summary>📚 历史日志</summary>
+  
   <details>
     <summary>2025/07/11 1.1.0发布</summary>
     <ul>
       <li>UG模具开发平台正式上线。</li>
     </ul>
   </details>
+</details>
 
 <!-- TABLE OF CONTENT -->
-
 <details open="open">
-  <summary><h2 style="display: inline-block">文档目录</h2></summary>
+  <summary><h2 style="display: inline-block">📋 文档目录</h2></summary>
   <ol>
     <li>
-      <a href="#模具设计开发平台">MinerU</a>
+      <a href="#模具设计开发平台">模具设计开发平台</a>
       <ul>
         <li><a href="#项目简介">项目简介</a></li>
         <li><a href="#主要功能">主要功能</a></li>
         <li><a href="#快速开始">快速开始</a>
-            <ul>
-            <li><a href="#在线体验">在线体验</a></li>
-            </ul>
+        </li>
       </ul>
     </li>
     <li><a href="#todo">TODO</a></li>
     <li><a href="#known-issues">Known Issues</a></li>
-    
   </ol>
 </details>
 
 # 模具设计开发平台
-
 ## 项目简介
 
 ## 主要功能
 
-## 快速开始
-- [在线体验](#在线体验)
 
+## 快速开始
+[![UG二开平台](https://img.shields.io/badge/UG二开平台-立即使用-2196F3?style=flat&logo=desktop&logoColor=white)](http://ughelper.huiqi-service.cn/#/login)
 
 # TODO
 
@@ -86,9 +82,3 @@
 - 平台初步阶段，知识库并不丰富生成的编码思路可能不完善，用户可以根据需求自行更改编码思路或所需函数。
 - 平台对过于复杂的插件设计效果较差，生成的代码可能无法完成某功能步骤的效果。
 - 现版本只支持NX10、NX12、NX2306、NX2406版本的代码编译功能，编译的dll文件可能会无法在其他NX版本中使用。
-
-
-
-
-
-
