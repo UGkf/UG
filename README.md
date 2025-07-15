@@ -53,7 +53,7 @@
       </ul>
     </li>
     <li><a href="#todo">TODO</a></li>
-    <li><a href="#known issues">Known Issues</a></li>
+    <li><a href="#known-issues">Known Issues</a></li>
   </ol>
 </details>
 
