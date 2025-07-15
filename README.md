@@ -62,10 +62,11 @@
 The Mold Development and Design Platform is an integrated platform that combines UG secondary development code plugin design (generating UG code and performing code compilation) with a UG secondary development community for mold functionality.
 <br>
 The UG Mold Development Platform was created primarily to enable mechanical engineers, process engineers, and other non-professional programmers to complete simple automation tasks through natural language, while also freeing experienced development engineers from tedious API queries and basic code writing, allowing them to focus on core algorithms and complex logic implementation to improve their work efficiency. The platform combines UG secondary development with large model applications, aiming to streamline UG secondary development engineering tasks.
-<video width="100%" controls>
-  <source src="https://github.com/UGkf/UG/raw/main/docs/image/UG%20%E6%BC%94%E7%A4%BA.mp4" type="video/mp4">
-  您的浏览器不支持视频播放
-</video>
+
+https://github.com/user-attachments/assets/fb4915f3-fff2-457c-857f-124868948fe0
+
+
+
 ## Main Features
 - Supports user input of requirements, the platform will generate UG secondary development C++ coding ideas that can fulfill user needs based on the requirements (users can modify them).
 - Supports generating required UF functions for each step based on the generated coding ideas (users can modify them).
