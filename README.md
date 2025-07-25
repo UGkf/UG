@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/fb4915f3-fff2-457c-857f-124868948fe0
 - [x] Code compilation with DLL output
 - [x] History & DLL library
 - [x] Multi-NX version support
-- [ ] Video input support
+- [x] Video input support
 - [ ] NX OPEN-based UG development
 - [ ] Intent recognition
 - [ ] Plugin requirement parsing
