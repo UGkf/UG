@@ -13,24 +13,25 @@
 
 # 📋 Update Log
 
-  2025/07/11 1.1.0Released
+  2025/07/25 1.1.1 Released
   
-- This is the first version launch of the Mold Development Platform. The platform includes the complete code process for generating UG secondary development C++ programming based on user requirements, platform usage completion, and user communication area. The specific platform content is as follows (C++ programming only):
-- Coding Features:
-  - User Requirements to Coding Ideas Process: Users input their requirements, and the system generates coding ideas to solve user needs.
-  - Coding Ideas to Required Functions Process: When users search for functions, the system generates the required functions to solve the coding ideas.
-  - Coding Ideas Function Information to Code Generation Process: After clicking generate code, the system produces code that solves user requirements.
-- Compilation Features:
-  - For code generated from user requirements, the platform supports code compilation and returns executable DLL files.
-  - When compilation errors occur, the platform returns error information.
-- UG Secondary Development Community:
-  - Users can provide feedback on issues and suggest features that need optimization in the communication area.
-- Platform Usage Tutorial:
-  - Users can view feature demonstrations in the usage tutorial section.
+- This is the first version update of the mold development platform. The platform has undergone the following updates to improve user experience.:
+- Intelligent Question and Answer: 
+  - Users can ask questions and seek answers from the full-power Deepseek model on the intelligent question and answer page.
+  - Multi-round dialogue: the large model will remember some of your questions.
+  - Historical dialogue query: users can also query past records on the intelligent question and answer page.
+- Video Upload:
+  - Supports users uploading videos for analysis to derive coding ideas.
 
 <details>
   <summary>📚 History Log</summary>
-  
+  <details>
+    <summary>2025/07/25 1.1.1 Released</summary>
+    <ul>
+      <li>The intelligent question-and-answer page is now live.</li>
+      <li>Update video analysis function.</li>
+    </ul>
+  </details>
   <details>
     <summary>2025/07/11 1.1.0 Released</summary>
     <ul>
