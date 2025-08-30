@@ -81,6 +81,7 @@ https://github.com/user-attachments/assets/fb4915f3-fff2-457c-857f-124868948fe0
 - Supports UG secondary development C++ code compilation, users can select their desired NX version for compilation to obtain DLL files.
 - Supports users viewing history records, allowing direct navigation to corresponding historical records for coding design.
 - Supports users viewing past DLL files, users can directly download previous DLL files.
+- Allows users to select specific tools to solve the problem.
 
 ## Quick Start
 [![UG_Demo](https://img.shields.io/badge/UG_Demo-Quick_Start-2196F3?style=flat&logo=desktop&logoColor=white)](http://ughelper.huiqi-service.cn/#/login)
