@@ -96,6 +96,7 @@ https://github.com/user-attachments/assets/9a819570-01b4-47ad-8255-3ec1fc45382f
 - [x] 历史记录、dll文件库
 - [x] 过多NX版本选择
 - [x] 视频需求输入
+- [x] 工具箱使用
 - [ ] 基于 NX OPEN 实现UG二开
 - [ ] 意图识别
 - [ ] 插件（复制）需求解析
