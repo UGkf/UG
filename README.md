@@ -13,18 +13,23 @@
 
 # 📋 Update Log
 
-  2025/07/25 1.1.1 Released
+  2025/08/29 1.2.0 Released
   
-- This is the first version update of the mold development platform. The platform has undergone the following updates to improve user experience.:
-- Intelligent Question and Answer: 
-  - Users can ask questions and seek answers from the full-power Deepseek model on the intelligent question and answer page.
-  - Multi-round dialogue: the large model will remember some of your questions.
-  - Historical dialogue query: users can also query past records on the intelligent question and answer page.
-- Video Upload:
-  - Supports users uploading videos for analysis to derive coding ideas.
+- Based on user feedback, the platform has made the following updates to improve user experience:
+- Toolbox page: 
+  - The main functions are broken down into individual toolboxes, and users can choose specific tools to solve the corresponding problems.
+- Communication forum optimization:
+  - Optimize the use of user communication forums, optimize the visual senses of communication forums, and optimize the operation of user questions and replies.
 
 <details>
   <summary>📚 History Log</summary>
+  <details>
+    <summary>2025/08/29 1.2.0 Released</summary>
+    <ul>
+      <li>Optimize user communication forums.</li>
+      <li>The toolbox page is live.</li>
+    </ul>
+  </details>
   <details>
     <summary>2025/07/25 1.1.1 Released</summary>
     <ul>
@@ -86,6 +91,7 @@ https://github.com/user-attachments/assets/fb4915f3-fff2-457c-857f-124868948fe0
 - [x] History & DLL library
 - [x] Multi-NX version support
 - [x] Video input support
+- [x] Toolbox use
 - [ ] NX OPEN-based UG development
 - [ ] Intent recognition
 - [ ] Plugin requirement parsing
